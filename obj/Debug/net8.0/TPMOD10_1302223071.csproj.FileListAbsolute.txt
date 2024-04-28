@@ -30,3 +30,4 @@ C:\Users\t4urusboy_\source\repos\TPMOD10_1302223071\obj\Debug\net8.0\refint\TPMO
 C:\Users\t4urusboy_\source\repos\TPMOD10_1302223071\obj\Debug\net8.0\TPMOD10_1302223071.pdb
 C:\Users\t4urusboy_\source\repos\TPMOD10_1302223071\obj\Debug\net8.0\TPMOD10_1302223071.genruntimeconfig.cache
 C:\Users\t4urusboy_\source\repos\TPMOD10_1302223071\obj\Debug\net8.0\ref\TPMOD10_1302223071.dll
+C:\Users\t4urusboy_\source\repos\TPMOD10_1302223071\obj\Debug\net8.0\TPMOD10_1302223071.sourcelink.json
